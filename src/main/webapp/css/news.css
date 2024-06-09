@@ -1,0 +1,36 @@
+.link{
+    width: 100%;
+    height: 60px;
+    border-bottom: 2px solid #e3e3e3;
+}
+.link span{
+    margin-left: 155px;
+    line-height: 46px;
+}
+.link a{
+    color: black;
+    text-decoration: none;
+}
+.row span{
+    opacity: 60%;
+    margin-bottom: 20px;
+}
+p{
+    line-height: 1.5;
+    text-align: justify;
+}
+.title-post{
+    margin-bottom: 8px;
+}
+.row{
+    padding-bottom: 40px;
+    border-bottom: 1px solid #e3e3e3;
+    padding-top: 40px;
+}
+#content a{
+    color: black;
+    text-decoration: none;
+}
+#content a:hover{
+    opacity: 60%;
+}

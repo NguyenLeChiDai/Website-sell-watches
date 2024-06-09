@@ -1,0 +1,79 @@
+
+/*------Container-------*/
+.row-1{
+    padding-top: 50px;
+}
+/*------Title-body------*/
+.title-body img {
+    width: 250px;
+}
+
+.title-body {
+    margin-top: 70px;
+    margin-left:-325px;
+}
+
+.section h3{
+    margin-top:250px;
+    display:block;
+}
+aside h5{
+    margin-right: 100px;
+}
+.title-body h2 {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 36px;
+    font-weight: 500px;
+    margin-bottom: 20px;
+}
+.list-product {
+    display: flex;
+    padding-left: 0;
+    margin-left: 0px;
+}
+.hot-deal {
+    margin-bottom: 100px;
+    border: 2px solid #e3e3e3;
+    padding: 3px;
+    background-color: white;
+}
+.list-product li:first-child {
+    margin-left: 0;
+}
+.list-product li {
+    width: 290px;
+    position: relative;
+    overflow: hidden;
+    margin-left: 15px;
+}
+
+.sanpham .list-product li img {
+    width: 250px; 
+    height: 100px;
+    transition: none;
+}
+.sanpham .list-product li a {
+    color: black;
+}
+.list-product li .monney{
+color: red;
+}
+.list-product li:hover img {
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+    opacity: 50%;
+    transform: rotate(2deg);
+}
+span.sl {
+    display: block;
+    margin-top: -15px;
+    margin-bottom: 15px;
+    font-size: 12px;
+    opacity: 80%;
+}
+.container button{
+    margin-top: 10px;
+}
+
+
